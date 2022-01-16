@@ -1,2 +1,2 @@
 # hg-maven-repo
-Haasini Groups of Technology
+Haasini Group of Technology
